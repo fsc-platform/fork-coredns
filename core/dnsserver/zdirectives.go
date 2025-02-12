@@ -37,6 +37,7 @@ var Directives = []string{
 	"loadbalance",
 	"tsig",
 	"cache",
+	"netbox",
 	"rewrite",
 	"header",
 	"dnssec",
